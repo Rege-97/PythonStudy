@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../PythonReport/.idea/PythonReport.iml" filepath="$PROJECT_DIR$/../PythonReport/.idea/PythonReport.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/PythonStudy04.iml" filepath="$PROJECT_DIR$/.idea/PythonStudy04.iml" />
       <module fileurl="file://$PROJECT_DIR$/../PythonStudy05/.idea/PythonStudy05.iml" filepath="$PROJECT_DIR$/../PythonStudy05/.idea/PythonStudy05.iml" />
       <module fileurl="file://$PROJECT_DIR$/../PythonStudy06/.idea/PythonStudy06.iml" filepath="$PROJECT_DIR$/../PythonStudy06/.idea/PythonStudy06.iml" />
